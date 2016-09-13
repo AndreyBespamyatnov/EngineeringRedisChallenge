@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniRedis", "MiniRedis\MiniRedis.csproj", "{F71CBB0F-55B6-4A71-BD8A-18F3F2D3848D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniRedisClient", "MiniRedisClient\MiniRedisClient.csproj", "{33F46894-7950-404F-8CF4-0B2BFC00DB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71CBB0F-55B6-4A71-BD8A-18F3F2D3848D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71CBB0F-55B6-4A71-BD8A-18F3F2D3848D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71CBB0F-55B6-4A71-BD8A-18F3F2D3848D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71CBB0F-55B6-4A71-BD8A-18F3F2D3848D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F46894-7950-404F-8CF4-0B2BFC00DB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F46894-7950-404F-8CF4-0B2BFC00DB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F46894-7950-404F-8CF4-0B2BFC00DB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F46894-7950-404F-8CF4-0B2BFC00DB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
