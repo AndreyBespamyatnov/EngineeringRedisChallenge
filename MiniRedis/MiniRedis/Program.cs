@@ -2,7 +2,6 @@
 
 namespace MiniRedis
 {
-
     class Program
     {
         static void Main(string[] args)
